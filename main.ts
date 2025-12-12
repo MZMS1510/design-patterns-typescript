@@ -1,0 +1,1 @@
+console.log("Welcome to Design Patterns in TypeScript with Deno!");
